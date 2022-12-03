@@ -7,6 +7,6 @@ const contentCard = 'Merry Christmas. Make A Wish. Dear my loyal princess, I hop
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Anh Vu Do https://www.facebook.com/chedauxanhne/
 
-const giftImage = 'LTHxinkdep.jpg';
+const giftImage = 'LTHismine.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
