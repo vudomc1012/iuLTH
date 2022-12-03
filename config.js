@@ -1,7 +1,7 @@
 const nameGirl = 'A little gift for LTH';
 const giftUrl = 'https://youtu.be/vGJTaP6anOU';
 const eventName = 'Merry Chít mớt hơ nìiii ';
-const titleCard = 'Tặng Lê Thanh Hiền';
+const titleCard = 'Dear Lê Thanh Hiền';
 const contentCard = 'Merry Christmas. Make A Wish. Dear my loyal princess, I hope you receive everything you wish for this year. Darling, you deserve the best! Thanks for being such agreat girl friend 💘';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
